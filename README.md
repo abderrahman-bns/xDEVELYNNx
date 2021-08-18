@@ -11,21 +11,21 @@
 
 ```Json
 {
-xdevelynnx = {
+"xdevelynnx" = {
 
-      pronouns:     "he" | "him",
+      "pronouns" :     "he & him",
 
-      Soft skills:  "Organizational behavior, strong interpersonal skills, challenging, innovative",
+      "Soft skills" :  "Organizational behavior, strong interpersonal skills, challenging, innovative",
 
-      Programming:  "C, Shell, Oracle, Python, Java, Jee, Jsf, Jsp, Swing, Primefaces, Php",
+      "Programming" :  "C, Shell, Oracle, Python, Java, Jee, Jsf, Jsp, Swing, Primefaces, Php",
 
-      Framworks:    "Hibernate, Spring IOC, Flask, Django, RestFramework API Django, Bootstrap",
+      "Framworks" :    "Hibernate, Spring IOC, Flask, Django, RestFramework API Django, Bootstrap",
 
-      DataBase:     "Oracle, MySql, PL/Sql",
+      "DataBase" :     "Oracle, MySql, PL/Sql",
 
-      Data Science: "Tensoflow, Keras, Machine Learning, OpenCV",
+      "Data Science" : "Tensoflow, Keras, Machine Learning, OpenCV",
 
-      Others:       "Uml, Matlab, API",
+      "Others" :       "Uml, Matlab, API",
             } 
 }
 ```
