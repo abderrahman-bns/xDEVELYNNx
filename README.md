@@ -26,6 +26,7 @@
         "Data Science" : "Tensoflow, Keras, Machine Learning, OpenCV",
 
         "Others" :       "Uml, Matlab, API",
+        
               } 
 }
 ```
