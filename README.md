@@ -9,21 +9,19 @@
 const xdevelynnx = {
 
   pronouns: 
-              "he" | "him",
+                  "he" | "him",
   Soft skills: 
-              "Organizational behavior, strong interpersonal skills, challenging, innovative",
+                  "Organizational behavior, strong interpersonal skills, challenging, innovative",
   Programming: 
-              "C Shell, ORACLE, Python, JAVA, JEE, JSF JSP ,Swing, PRIMEFACES, PHP",
+                  "C, Shell, Oracle, Python, Java, Jee, Jsf, Jsp, Swing, Primefaces, Php",
   Framworks:
-              "HIBERNATE, SPRING IOC, FLASK, DJANGO, BOOTSTRAP",
+                  "Hibernate, Spring IOC, Flask, Django, Bootstrap",
   DataBase: 
-              "Oracle, MySql, PL/SQL",
+                  "Oracle, MySql, PL/Sql",
   Data Science: 
-              "Tensoflow, Keras, Machine Learning, OpenCV",
+                  "Tensoflow, Keras, Machine Learning, OpenCV",
   Others: 
-              "UML, MATLAB, API",
-  challenge: 
-              "I am doing the #100DaysOfCode challenge focused on react and typescript"
+                  "Uml, Matlab, API",
 }
 ```
 
