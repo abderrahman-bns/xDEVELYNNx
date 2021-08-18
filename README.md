@@ -3,11 +3,11 @@
 </h2>
 <img align='right' src="https://media.giphy.com/media/S8ZHY5Y9ULhSAGPg50/source.gif" width="230">
 <p><em>Embedded IoT ENGINEERING STUDENT at <a href="http://ensias.um5.ac.ma/">National School For Computer Science (ENSIAS)</a>
-<img src="https://media.giphy.com/media/xlCMfgDZjnA589CzCB/giphy.gif?cid=ecf05e47pkkfz1xant62wjdsh9jf81840fok3m1zz5dnyo0u&rid=giphy.gif&ct=s" width="40"></br>Developer Freelancer 
+<img class="align-bottom" src="https://media.giphy.com/media/xlCMfgDZjnA589CzCB/giphy.gif?cid=ecf05e47pkkfz1xant62wjdsh9jf81840fok3m1zz5dnyo0u&rid=giphy.gif&ct=s" width="40"></br>Developer Freelancer 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-###  A little more about <img class="justify-content-center align-items-center" src="https://media.giphy.com/media/fTsZNbPQxJWtor2LXE/giphy.gif?cid=ecf05e47c0leegww5b2a8psprbt1hs5a9ac3lph17imouaaw&rid=giphy.gif&ct=ts" width="50"> ...  
+###  A little more about <img class="align-bottom" src="https://media.giphy.com/media/fTsZNbPQxJWtor2LXE/giphy.gif?cid=ecf05e47c0leegww5b2a8psprbt1hs5a9ac3lph17imouaaw&rid=giphy.gif&ct=ts" width="50"> ...  
 
 ```javascript
 const xdevelynnx = {
