@@ -9,23 +9,24 @@
 
 ###  A little more about <img class="align-bottom" src="https://media.giphy.com/media/fTsZNbPQxJWtor2LXE/giphy.gif?cid=ecf05e47c0leegww5b2a8psprbt1hs5a9ac3lph17imouaaw&rid=giphy.gif&ct=ts" width="40"> ...  
 
-```javascript
-const xdevelynnx = {
+```Json
+{
+xdevelynnx = {
 
-  pronouns:     "he" | "him",
-  
-  Soft skills:  "Organizational behavior, strong interpersonal skills, challenging, innovative",
-  
-  Programming:  "C, Shell, Oracle, Python, Java, Jee, Jsf, Jsp, Swing, Primefaces, Php",
-  
-  Framworks:    "Hibernate, Spring IOC, Flask, Django, RestFramework API Django, Bootstrap",
-  
-  DataBase:     "Oracle, MySql, PL/Sql",
-  
-  Data Science: "Tensoflow, Keras, Machine Learning, OpenCV",
-  
-  Others:       "Uml, Matlab, API",
-  
+      pronouns:     "he" | "him",
+
+      Soft skills:  "Organizational behavior, strong interpersonal skills, challenging, innovative",
+
+      Programming:  "C, Shell, Oracle, Python, Java, Jee, Jsf, Jsp, Swing, Primefaces, Php",
+
+      Framworks:    "Hibernate, Spring IOC, Flask, Django, RestFramework API Django, Bootstrap",
+
+      DataBase:     "Oracle, MySql, PL/Sql",
+
+      Data Science: "Tensoflow, Keras, Machine Learning, OpenCV",
+
+      Others:       "Uml, Matlab, API",
+            } 
 }
 ```
 
