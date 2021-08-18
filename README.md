@@ -8,14 +8,18 @@
 ```javascript
 const xdevelynnx = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
+  Soft skills: 
+  "Organizational behavior, strong interpersonal skills, challenging, innovative",
+  Programming: 
+  "C Shell, ORACLE, Python, JAVA, JEE, JSF JSP ,Swing, PRIMEFACES, PHP",
+  Framworks:
+  "HIBERNATE, SPRING IOC, FLASK, DJANGO, BOOTSTRAP",
+  DataBase: 
+  "Oracle, MySql, PL/SQL",
+  Data Science: 
+  "Tensoflow, Keras, Machine Learning, OpenCV",
+  Others: 
+  "UML, MATLAB, API",
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
