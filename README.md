@@ -2,12 +2,12 @@
   <img src="https://media.giphy.com/media/gKTrvcXJMCpYn80V6R/giphy.gif?cid=ecf05e47duxj6qnzirr77aoyjgiisy7t2norghr5t669jx9d&rid=giphy.gif&ct=s" width="50">
 </h2>
 <img align='right' src="https://media.giphy.com/media/S8ZHY5Y9ULhSAGPg50/source.gif" width="230">
-<p><em>Embedded IoT ENGINEERING STUDENT at <a href="http://www.unb.br">National School For Computer Science (ENSIAS)</a>
+<p><em>Embedded IoT ENGINEERING STUDENT at <a href="http://ensias.um5.ac.ma/">National School For Computer Science (ENSIAS)</a>
 <img src="https://media.giphy.com/media/xlCMfgDZjnA589CzCB/giphy.gif?cid=ecf05e47pkkfz1xant62wjdsh9jf81840fok3m1zz5dnyo0u&rid=giphy.gif&ct=s" width="40"></br>Developer Freelancer 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+###  A little more about <img src="https://media.giphy.com/media/fTsZNbPQxJWtor2LXE/giphy.gif?cid=ecf05e47c0leegww5b2a8psprbt1hs5a9ac3lph17imouaaw&rid=giphy.gif&ct=ts" width="50"> ...  
 
 ```javascript
 const xdevelynnx = {
