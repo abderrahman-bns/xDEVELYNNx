@@ -7,7 +7,7 @@
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-###  A little more about <img src="https://media.giphy.com/media/fTsZNbPQxJWtor2LXE/giphy.gif?cid=ecf05e47c0leegww5b2a8psprbt1hs5a9ac3lph17imouaaw&rid=giphy.gif&ct=ts" width="50"> ...  
+###  A little more about <img class="justify-content-center align-items-center" src="https://media.giphy.com/media/fTsZNbPQxJWtor2LXE/giphy.gif?cid=ecf05e47c0leegww5b2a8psprbt1hs5a9ac3lph17imouaaw&rid=giphy.gif&ct=ts" width="50"> ...  
 
 ```javascript
 const xdevelynnx = {
