@@ -7,20 +7,23 @@
 
 ```javascript
 const xdevelynnx = {
-  pronouns: "he" | "him",
+
+  pronouns: 
+              "he" | "him",
   Soft skills: 
-  "Organizational behavior, strong interpersonal skills, challenging, innovative",
+              "Organizational behavior, strong interpersonal skills, challenging, innovative",
   Programming: 
-  "C Shell, ORACLE, Python, JAVA, JEE, JSF JSP ,Swing, PRIMEFACES, PHP",
+              "C Shell, ORACLE, Python, JAVA, JEE, JSF JSP ,Swing, PRIMEFACES, PHP",
   Framworks:
-  "HIBERNATE, SPRING IOC, FLASK, DJANGO, BOOTSTRAP",
+              "HIBERNATE, SPRING IOC, FLASK, DJANGO, BOOTSTRAP",
   DataBase: 
-  "Oracle, MySql, PL/SQL",
+              "Oracle, MySql, PL/SQL",
   Data Science: 
-  "Tensoflow, Keras, Machine Learning, OpenCV",
+              "Tensoflow, Keras, Machine Learning, OpenCV",
   Others: 
-  "UML, MATLAB, API",
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+              "UML, MATLAB, API",
+  challenge: 
+              "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
 
