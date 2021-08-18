@@ -3,7 +3,7 @@
 </h2>
 <img align='right' src="https://media.giphy.com/media/S8ZHY5Y9ULhSAGPg50/source.gif" width="230">
 <p><em>Embedded IoT ENGINEERING STUDENT at <a href="http://www.unb.br">National School For Computer Science (ENSIAS)</a>
-<img src="https://giphy.com/embed/xlCMfgDZjnA589CzCB/giphy.gif" width="30"></br>Developer Freelancer 
+<img src="https://media.giphy.com/media/xlCMfgDZjnA589CzCB/giphy.gif?cid=ecf05e47pkkfz1xant62wjdsh9jf81840fok3m1zz5dnyo0u&rid=giphy.gif&ct=s" width="30"></br>Developer Freelancer 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
