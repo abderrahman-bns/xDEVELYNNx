@@ -14,7 +14,7 @@ const xdevelynnx = {
   
   Programming:  "C, Shell, Oracle, Python, Java, Jee, Jsf, Jsp, Swing, Primefaces, Php",
   
-  Framworks:    "Hibernate, Spring IOC, Flask, Django, Bootstrap",
+  Framworks:    "Hibernate, Spring IOC, Flask, Django, RestFramework API Django, Bootstrap",
   
   DataBase:     "Oracle, MySql, PL/Sql",
   
