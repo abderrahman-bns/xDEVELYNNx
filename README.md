@@ -1,10 +1,10 @@
 <h2> Hi, I'm BEN SALAH Abderrahman ! 
-  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+  <img src="https://media.giphy.com/media/gKTrvcXJMCpYn80V6R/giphy.gif?cid=ecf05e47duxj6qnzirr77aoyjgiisy7t2norghr5t669jx9d&rid=giphy.gif&ct=s" width="50">
 </h2>
 <img align='right' src="https://media.giphy.com/media/S8ZHY5Y9ULhSAGPg50/source.gif" width="230">
 <p><em>Embedded IoT ENGINEERING STUDENT at <a href="http://www.unb.br">National School For Computer Science (ENSIAS)</a>
-<img src="https://media.giphy.com/media/xlCMfgDZjnA589CzCB/giphy.gif?cid=ecf05e47pkkfz1xant62wjdsh9jf81840fok3m1zz5dnyo0u&rid=giphy.gif&ct=s" width="30"></br>Developer Freelancer 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<img src="https://media.giphy.com/media/xlCMfgDZjnA589CzCB/giphy.gif?cid=ecf05e47pkkfz1xant62wjdsh9jf81840fok3m1zz5dnyo0u&rid=giphy.gif&ct=s" width="40"></br>Developer Freelancer 
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
 </em></p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -29,7 +29,7 @@ const xdevelynnx = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 -----
 Credits: [xDEVELYNNx](https://github.com/xDEVELYNNx)
