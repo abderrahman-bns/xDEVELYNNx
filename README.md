@@ -11,9 +11,9 @@
 
 ```Json
 {
-  "xdevelynnx" : {
+  "xDEVELYNNx" : {
 
-        "pronouns" :     "he & him",
+        "Pronouns" :     "He & Him",
 
         "Soft skills" :  "Organizational behavior, strong interpersonal skills, challenging, innovative",
 
